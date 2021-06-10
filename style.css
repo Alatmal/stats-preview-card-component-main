@@ -36,6 +36,10 @@ body{
     border-radius: 20px;
 }
 
+.stats h3{
+    padding-bottom: 5px;
+}
+
 #desktop-image{
     display: none;
 }
@@ -162,6 +166,8 @@ li p{
         width: 100%;
     }
     .stats h3{
+        text-align: center;
+        font-size: 1.5rem;
         padding-bottom: 5px;
     }
 
